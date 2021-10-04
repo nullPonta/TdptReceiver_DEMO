@@ -6,10 +6,8 @@
 /obj
 
 
-/Assets/DL_Model*
-/Assets/StreamingAssets/ThreeDPoseTracker*
+/Assets/uOSC*
 
-/Assets/Plugins/Pixelplacement*
 
 /binWin
 /binAndroid
